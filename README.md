@@ -17,3 +17,5 @@ Python是一个非常适合初学者的语言，我希望你可以耐心的看�
 [Messege和Print的配合用法](http://https://github.com/twairgroup/0-jail-python-sduty/blob/main/name%26messege.py "Messege和Print的配合用法")
 ### Python的基础数学逻辑
 [Python的Str与简单计算](http://https://github.com/twairgroup/0-jail-python-sduty/blob/main/number.py "Python的Str与简单计算")
+### Python的注释
+[怎样在Python中增加注释？](http://https://github.com/twairgroup/0-jail-python-sduty/blob/main/Comment.py "怎样在Python中增加注释？")
